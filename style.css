@@ -16,10 +16,13 @@ h1{
 div{
 border: 1px solid black;
 	width: 90%;
-	height: 200px;
+	height: 210px;
 	margin-right:auto;
 	margin-left: auto;
 	font-family: cursive;
+	position:relative;
+
+
 
 
  
@@ -56,13 +59,7 @@ p{
 	
 	background-color: #2f4f4f;
 	
-	
 	}
-
-	section{
-		clear:right;
-	}
-
 
 @media(min-width: 992px){
 	.col-lg-1, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-lg-10, .col-lg-11, .col-lg-12 {
