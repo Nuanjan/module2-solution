@@ -22,7 +22,7 @@ p.p1 {
 	margin-right:auto;
 	margin-left: auto;
 	font-family: cursive;
- /*position: relative;*/
+ position: relative;
 }
 
 p.p2{
@@ -147,6 +147,8 @@ p.t1{
 	width: 80px;
 	height: 30px;
 	border: 1px solid black;
+	float: right;
+	position: absolute;
 	
 }
 
