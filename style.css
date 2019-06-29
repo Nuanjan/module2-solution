@@ -4,36 +4,39 @@ h1{
 	color:blue;
 }
 
-#p1{
+p.p1 {
 	border: 1px solid black;
 	background-color: #b0e0e6;
 	margin-bottom: 15px;
 	width: 90%;
+	height: 200px;
 	margin-right:auto;
 	margin-left: auto;
 	font-family: cursive;
 }
 
-#p2{
+p.p2{
 	border: 1px solid black;
 	background-color: #87ceeb;
 	margin-bottom: 15px;
 	width: 90%;
+	height: 200px;
 	margin-right:auto;
 	margin-left: auto;
 	font-family: cursive;
 }
 
-#p3{
+p.p3{
 	border: 1px solid black;
 	background-color: #00bfff;
 	margin-bottom: 15px;
 	width: 90%;
+	height: 200px;
 	margin-right:auto;
 	margin-left: auto;
 	font-family: cursive;
 	}
-	
+
 .row{
 	width: 100%;
 }
