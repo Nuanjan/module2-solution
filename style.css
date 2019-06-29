@@ -21,6 +21,7 @@ margin-right: 10px;
 	margin-right:auto;
 	margin-left: auto;
 	font-family: cursive;
+	position: relative;
  
 }
 
@@ -31,6 +32,8 @@ p{
 	height: 30px;
 	float:right;
 	position: absolute;
+	top: 0;
+	right:0;
 }
 
 .p1 {
