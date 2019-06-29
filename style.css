@@ -22,7 +22,7 @@ p.p1 {
 	margin-right:auto;
 	margin-left: auto;
 	font-family: cursive;
-	position: relative;
+ /*position: relative;*/
 }
 
 p.p2{
@@ -34,7 +34,7 @@ p.p2{
 	margin-right:auto;
 	margin-left: auto;
 	font-family: cursive;
-	position: relative;
+	
 }
 
 p.p3{
@@ -46,7 +46,7 @@ p.p3{
 	margin-right:auto;
 	margin-left: auto;
 	font-family: cursive;
-	position: relative;
+	
 	}
 
 
@@ -143,21 +143,20 @@ p.p3{
 	width: 100%
 }
 
-div.t1{
+p.t1{
 	width: 80px;
 	height: 30px;
 	border: 1px solid black;
-	position: absolute;
-	float: right;
+	
 }
 
-div.t2{
+p.t2{
 	width: 80px;
 	height: 30px;
 	border: 1px solid black;
 }
 
-div.t3{
+p.t3{
 	width: 80px;
 	height: 30px;
 	border: 1px solid black;
